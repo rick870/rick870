@@ -8,9 +8,9 @@
 <td width="50%" align="left">
   
 
-- 🧑‍🎓 I’m an software Developer
+- 🧑‍🎓 I’m an Software Developer
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **agustin30081979@gmail.com**
   
