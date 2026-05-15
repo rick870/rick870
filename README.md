@@ -91,8 +91,8 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
-  <a href="mailto:agustin.gonzales.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+   <a href="mailto:agustin.gonzales.dev@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </span>
 
