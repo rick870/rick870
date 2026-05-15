@@ -82,17 +82,17 @@
 <span> 
 
 
-<span> 
-  <a href="https://www.linkedin.com/in/TU_PERFIL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<span>
+  <a href="https://www.linkedin.com/in/agustingonzales-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-   <a href="https://wa.me/519322622662" target="_blank">
+  <a href="https://wa.me/519322622662" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
-   <a href="mailto:agustin.gonzales.dev@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href="mailto:agustin.gonzales.dev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </span>
 
